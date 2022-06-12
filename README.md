@@ -8,7 +8,7 @@ model 2 : 5 layers with 2 conv layer
 
 model 3 : 7 layers with 4 conv layer
 
-![image](https://user-images.githubusercontent.com/80568500/173240209-1abea288-cc0c-4299-b62f-8c7113da215a.png)
+![image](https://user-images.githubusercontent.com/80568500/173240363-fa5515b4-9d53-4af5-94bd-6187880d9f70.png)
 
 
 ## Upload success/failure cases (images) of the results
